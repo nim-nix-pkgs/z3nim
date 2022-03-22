@@ -9,7 +9,7 @@
   
   inputs.src-z3nim-master.flake = false;
   inputs.src-z3nim-master.owner = "Double-oxygeN";
-  inputs.src-z3nim-master.ref   = "refs/heads/master";
+  inputs.src-z3nim-master.ref   = "master";
   inputs.src-z3nim-master.repo  = "z3nim";
   inputs.src-z3nim-master.type  = "github";
   
